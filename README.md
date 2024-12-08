@@ -14,45 +14,45 @@ Support decision-making in drug development, marketing, and patient care.
 
 
 **Key Features**
-Extensive Dataset:
+Extensive Dataset:\n
 
-The project utilizes a Kaggle drug review dataset with 161,218 reviews.
-Includes fields such as drug name, condition, rating, review text, and sentiment.
-Advanced Preprocessing Pipeline:
+The project utilizes a Kaggle drug review dataset with 161,218 reviews.\n
+Includes fields such as drug name, condition, rating, review text, and sentiment.\n
+Advanced Preprocessing Pipeline:\n
 
-Handling missing values.
-Removing stopwords, special characters, and noise in text.
-Lemmatization to normalize text.
-Tokenization for machine learning compatibility.
-State-of-the-Art Machine Learning Model:
+Handling missing values.\n
+Removing stopwords, special characters, and noise in text.\n
+Lemmatization to normalize text.\n
+Tokenization for machine learning compatibility.\n
+State-of-the-Art Machine Learning Model:\n
 
-Implemented LightGBM, a high-performance gradient boosting model.
-Optimized hyperparameters for faster training and higher accuracy.
-Supports multiclass classification for nuanced sentiment detection.
+Implemented LightGBM, a high-performance gradient boosting model.\n
+Optimized hyperparameters for faster training and higher accuracy.\n
+Supports multiclass classification for nuanced sentiment detection.\n
 
-Interactive Analysis:
+Interactive Analysis:\n
 
-Extracts insights like top positive and negative keywords.
-Provides distribution graphs for sentiment trends across drugs and conditions.
-Scalable Workflow:
+Extracts insights like top positive and negative keywords.\n
+Provides distribution graphs for sentiment trends across drugs and conditions.\n
+Scalable Workflow:\n
 
-Easily integrates additional data or features.
-Supports deployment for real-time sentiment analysis in healthcare systems.
-Technologies and Tools
-Programming Language: Python
+Easily integrates additional data or features.\n
+Supports deployment for real-time sentiment analysis in healthcare systems.\n
+Technologies and Tools\n
+Programming Language: Python\n
 
-**Libraries Used:**
+**Libraries Used:**\n
 
-LightGBM: Model training and evaluation.
-Pandas and NumPy: Data manipulation.
-Scikit-learn: Preprocessing and validation.
-Matplotlib and Seaborn: Data visualization.
-NLTK and spaCy: Text processing and tokenization.
-Development Tools:
+LightGBM: Model training and evaluation.\n
+Pandas and NumPy: Data manipulation.\n
+Scikit-learn: Preprocessing and validation.\n
+Matplotlib and Seaborn: Data visualization.\n
+NLTK and spaCy: Text processing and tokenization.\n
+**Development Tools:**\n
 
-Jupyter Notebooks for exploration and experimentation.
-Git for version control.
-Project Goals
-Develop an efficient pipeline for sentiment analysis of drug reviews.
-Provide insights into patient feedback for improved healthcare outcomes.
-Create a scalable framework that can be applied to other sentiment analysis tasks.
+Jupyter Notebooks for exploration and experimentation.\n
+Git for version control.\n
+**Project Goals**\n
+Develop an efficient pipeline for sentiment analysis of drug reviews.\n
+Provide insights into patient feedback for improved healthcare outcomes.\n
+Create a scalable framework that can be applied to other sentiment analysis tasks.\n
