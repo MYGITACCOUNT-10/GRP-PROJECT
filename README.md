@@ -1,15 +1,19 @@
 # GRP-PROJECT
 
-Sentiment Analysis on Drug Reviews\n
-This project is a comprehensive implementation of Sentiment Analysis applied to drug reviews, aiming to determine user sentiment (positive, negative, or neutral). By leveraging a robust machine learning model, LightGBM, it efficiently classifies reviews while providing actionable insights into user satisfaction with various drugs.
+**Sentiment Analysis on Drug Reviews**\n
+This project is a comprehensive implementation of Sentiment Analysis applied to drug reviews, aiming to determine user sentiment (positive, negative, or neutral).
+By leveraging a robust machine learning model, LightGBM, it efficiently classifies reviews while providing actionable insights into user satisfaction with various drugs.
 
-Overview
-Understanding public sentiment toward drugs is critical for healthcare professionals, pharmaceutical companies, and policymakers. This project analyzes a large dataset of drug reviews to:
+**Overview**
+Understanding public sentiment toward drugs is critical for healthcare professionals, pharmaceutical companies, and policymakers. 
+This project analyzes a large dataset of drug reviews to:
 
-Identify user sentiment trends.
+**Identify user sentiment trends**
 Highlight the most common concerns or praises.
 Support decision-making in drug development, marketing, and patient care.
-Key Features
+
+
+**Key Features**
 Extensive Dataset:
 
 The project utilizes a Kaggle drug review dataset with 161,218 reviews.
@@ -25,6 +29,7 @@ State-of-the-Art Machine Learning Model:
 Implemented LightGBM, a high-performance gradient boosting model.
 Optimized hyperparameters for faster training and higher accuracy.
 Supports multiclass classification for nuanced sentiment detection.
+
 Interactive Analysis:
 
 Extracts insights like top positive and negative keywords.
@@ -36,7 +41,7 @@ Supports deployment for real-time sentiment analysis in healthcare systems.
 Technologies and Tools
 Programming Language: Python
 
-Libraries Used:
+**Libraries Used:**
 
 LightGBM: Model training and evaluation.
 Pandas and NumPy: Data manipulation.
