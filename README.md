@@ -2,7 +2,7 @@ Here’s a refined version of your project description, formatted with proper Gi
 
 ---
 
-# **GRP-PROJECT**  
+# **PROJECT**  
 ## **Sentiment Analysis on Drug Reviews**  
 This project is a comprehensive implementation of **Sentiment Analysis** applied to drug reviews, aiming to determine user sentiment (positive, negative, or neutral).  
 By leveraging a robust machine learning model, **LightGBM**, it efficiently classifies reviews while providing actionable insights into user satisfaction with various drugs.  
